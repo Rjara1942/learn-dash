@@ -6,8 +6,8 @@ Organizado por fases progresivas siguiendo la estructura del repo educativo
 
 ## Objetivo final
 
-Construir un dashboard interactivo con datos reales de mi trabajo
-(tesis pesquera / modelo RBC / ayudantía Econometría I) y publicarlo en la web.
+Construir un dashboard interactivo con datos reales de mi trabajo.
+
 
 ---
 
